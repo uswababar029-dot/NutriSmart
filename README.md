@@ -32,4 +32,4 @@ The system generates personalized diet plans using BMI, activity level, and heal
 
 ## License
 
-MIT License
+https://opensource.org/licenses/MIT
